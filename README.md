@@ -36,6 +36,8 @@ ByteTrack
 Tracking IDs
      ↓
 Processed Video
+
+
 🛠️ Technologies Used
 Python
 YOLO
@@ -57,6 +59,7 @@ cd CodeAlpha_ObjectDetectionTracking
 Install the required dependencies:
 
 pip install -r requirements.txt
+
 ▶️ Run the Application
 
 Run the following command:
@@ -66,6 +69,7 @@ python app.py
 The Gradio interface will open and allow you to upload a video.
 
 🎯 How to Use
+
 Open the application.
 Upload a video.
 Click Detect & Track.
@@ -105,6 +109,7 @@ Gradio
 Gradio provides the interactive web interface for uploading videos and displaying the processed output.
 
 🔮 Future Improvements
+
 Real-time webcam detection
 Object counting
 Vehicle counting
@@ -112,6 +117,7 @@ Speed estimation
 Line-crossing detection
 Custom-trained object detection models
 Real-time analytics dashboard
+
 🎓 Internship
 
 This project was completed as part of the:
